@@ -1,2 +1,2 @@
 # Facial-Recognition
-A simple application that uses Haar Cascades (OpenCV)
+A simple application that uses a pre defined Haar Cascade (OpenCV)
